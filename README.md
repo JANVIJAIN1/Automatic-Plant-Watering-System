@@ -42,4 +42,4 @@ Project Status
 Hardware setup and testing completed. Software implementation and integration are in progress.
 ## Project Setup
 
-![Automatic Plant Watering System](automatic-plant-watering-system.jpg.jpeg)
+![Automatic Plant Watering System](Automatic plant watering system.jpg.jpeg).
